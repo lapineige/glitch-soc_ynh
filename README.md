@@ -13,9 +13,11 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 Glitch-soc is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust,whichever you choose, you can interact with everyone else. Anyone can run their own Glitch-soc instance and participate in the social network seamlessly.
 
 **Glitch-soc is a friendly fork of [Mastodon](https://joinmastodon.org/), mainly similar but with some extra features.**
+
 This app is a fork of [Yunohost Mastodon app](https://github.com/YunoHost-Apps/mastodon_ynh), with extra changes for Glitch-soc. It will be kept up-to-date with Yunohost Mastodon repository.
 
 **Shipped version:** 2.8.3 Mastodon equivalent
+
 *NB: Glitch-soc doesn't provide any specific release, and is constantly updated. We try to use it at a state that correspond to the equivalent Mastodon version.*
 
 ## Screenshots
