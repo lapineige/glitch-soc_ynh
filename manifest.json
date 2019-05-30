@@ -1,25 +1,17 @@
 {
-	"name": "Mastodon",
-	"id": "mastodon",
+	"name": "Glitch-soc",
+	"id": "glitch-soc",
 	"packaging_format": 1,
 	"description": {
-		"en": "Mastodon is a free, open-source social network.",
-		"fr": "Mastodon est un réseau social gratuit et open source."
+		"en": "Glitch-soc is a free, open-source social network, based on Mastodon.",
+		"fr": "Glitch-soc est un réseau social gratuit et libre, basé sur Mastodon."
 	},
 	"version": "2.8.3~ynh1",
-	"url": "https://github.com/tootsuite/mastodon",
+	"url": "https://github.com/glitch-soc/mastodon/",
 	"license": "AGPL-3.0-or-later",
 	"maintainer": [
 	    {
-		    "name": "cyp",
-		    "email": "cyp@rouquin.me"
-	    },
-	    {
-		    "name": "nemsia",
-		    "email": "nemsia@nemsia.org"
-	    },
-	    {
-		    "name": "yalh76"
+		    "name": "Lapineige"
 	    }
 	],
     "requirements": {
@@ -35,8 +27,8 @@
 				"name": "domain",
 				"type": "domain",
 				"ask": {
-					"en": "Choose a domain for Mastodon",
-					"fr": "Choisissez un domaine pour Mastodon"
+					"en": "Choose a domain for Glitch-soc",
+					"fr": "Choisissez un domaine pour Glitch-soc"
 				},
                 "example": "example.com"
 			},
