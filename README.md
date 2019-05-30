@@ -110,3 +110,8 @@ sudo yunohost app install https://github.com/lapineige/glitch-soc_ynh/tree/testi
 or
 sudo yunohost app upgrade glitch-soc -u https://github.com/lapineige/glitch-soc_ynh/tree/testing --debug
 ```
+### How to upgrade Glitch-soc version
+
+Go to Mastodon source code repository, find out in the [release](https://github.com/tootsuite/mastodon/releases/) part on in the dedicated branch what is the latest commit of this branch.
+Then go to Glitch-soc repository, find the very same commit in the [commits list](https://github.com/glitch-soc/mastodon/commits/master).
+Then you can use change the source to this commit.
