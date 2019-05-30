@@ -1,4 +1,6 @@
 # Glitch-soc for YunoHost
+
+**:warning: Work In Progress, not tested yet, don't try it in production, don't expect it to work yet.**
   
 [![Install Glitch-soc with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=glitch-soc)
 
